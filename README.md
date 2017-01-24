@@ -7,7 +7,7 @@ As education has grown to rely more on technology, vast amounts of data has beco
 
 ### View full report
 
-Full report can be viewed by either clicking this [LINK](https://github.com/kwonjh90/MLND-StudentIntervention/blob/master/student_intervention.ipynb) or clicking on the customer_segments.ipynb file from the committed files list. Please understand that due to the size of data base, loading the report may take a couple of minutes. Thank you for your interest.
+Full report can be viewed by either clicking this [LINK](https://github.com/kwonjh90/MLND-StudentIntervention/blob/master/student_intervention.ipynb) or clicking on the student_intervention.ipynb file from the committed files list. Please understand that due to the size of data base, loading the report may take a couple of minutes. Thank you for your interest.
 
 ### Install
 
